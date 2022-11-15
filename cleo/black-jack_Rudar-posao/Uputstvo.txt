@@ -1,0 +1,5 @@
+1. Kad dodješ do rudara uzmi opremu i spusti se u rudnik.
+2. Ukucaj komandu /ignorisi.
+3. Ukucaj komandu /vf i ostalo će sve samo da se radi. (Moraš da skineš i skriptu verifikacije potraži je u ovde).
+4. Kad nećeš više da radiš odeš /q.
+NAPOMENA: Ne koristi komande /gps ili ostale komande koje će da ti pozivaju Checkpoint neki jer će cela skripta da poludi.
